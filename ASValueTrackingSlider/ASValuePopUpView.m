@@ -82,7 +82,7 @@ NSString *const SliderFillColorAnim = @"fillColor";
         _pathLayer = (CAShapeLayer *)self.layer; // ivar can now be accessed without casting to CAShapeLayer every time
         
         _cornerRadius = 4.0;
-        _arrowLength = 13.0;
+        _arrowLength = 8.0;
         _widthPaddingFactor = 1.15;
         _heightPaddingFactor = 1.1;
         
